@@ -8,3 +8,6 @@ Lab Assignments for Course code 18CSC310J (Data Centric Networking and System De
 | 4 ||
 | 5 | Automation and Optimization with Amazon S3 |
 | 6 | Querying data in Amazon S3 with Amazon Athena |
+| 7 ||
+| 8 | Migrate to Amazon RDS |
+| 9 | Configure failover routing with Amazon Route 53 |
